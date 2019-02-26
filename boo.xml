@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+   <name>The Lord of the Rings</name>
+   <author>J.R.R.Tolkien</author>
+   <year>1955</year>
+   <genre>Fantasy</genre>
+   <price>500 TK</price>
+   <link>img1.jpg</link>
+  </book>
+  
+  
+<book>
+<name>The Little Prince</name>
+ <author>Antoine Saint</author>
+ <year>1943</year> 
+ <genre>Fiction</genre>
+   <price>250 TK</price>
+   <link>tlp.jpg</link>
+   </book>
+<book>
+<name>Harry Potter and the Philosopher's Stone</name>
+ <author>J.K.Rowling</author> 
+ <year>1997</year>
+ <genre>Fantasy</genre>
+   <price>200 TK</price>
+   <link>img3.jpg</link>
+   </book>
+<book>
+<name>The Hobbit</name> 
+<author>J.R.R.Tolkien</author>
+<year> 1937</year>
+ <genre>Fantasy</genre>
+   <price>200 TK</price>
+   <link>img11.jpg</link>
+   </book>
+<book>
+<name>And Then There Were None</name>
+ <author>Agatha Christie</author>
+ <year>1939</year> 
+ <genre>Mystery</genre>
+   <price>150 TK</price>
+   <link>attwn.jpg</link>
+   </book>
+<book>
+<name>Alice's Adventures in Wonderland</name> 
+<author>Lewis Carroll</author>
+<year>1865</year> 
+<genre>Fantasy</genre>
+   <price>150 TK</price>
+   <link>img14.jpg</link>
+   </book>
+<book>
+<name>The Lion, the Witch and the Wardrobe</name> 
+<author>C. S. Lewis</author>
+<year>1950</year>  
+<genre>Fantasy</genre>
+   <price>150 TK</price>
+   <link>img13.jpg</link>
+   </book>
+<book>
+<name>She: A History of Adventure</name>
+ <author>H. Rider Haggard</author>
+ <year>1887</year> 
+ <genre>Adventure</genre>
+   <price>250 TK</price>
+   <link>sahoa.jpg</link>
+   </book>
+<book>
+<name>The Adventures of Pinocchio</name> 
+<author>Carlo Collodi</author>
+<year>1881</year> 
+ <genre>Adventure</genre>
+   <price>200 TK</price>
+   <link>taop.jpg</link>
+   </book>
+<book>
+<name>Vardi Wala Gunda</name> 
+<author>Ved Prakash Sharma</author>
+<year>1992</year> 
+ <genre>Fiction</genre>
+   <price>150 TK</price>
+   <link>vwg.jpg</link>
+   </book>
+<book>
+<name>The Da Vinci Code</name> 
+<author>Dan Brown</author>
+<year>2003</year> 
+ <genre>Mystery</genre>
+   <price>150 TK</price>
+   <link>img10.jpg</link>
+   </book>
+<book>
+<name>Harry Potter and the Chamber of Secrets</name>
+ <author>J.K.Rowling</author>
+ <year>1998</year> 
+ <genre>Fantasy</genre>
+   <price>500 TK</price>
+   <link>img4.jpg</link>
+   </book>
+<book>
+<name>Harry Potter and the Prisoner of Azkaban</name>
+<author>J.K.Rowling</author>
+<year>1999</year> 
+<genre>Fantasy</genre>
+   <price>200 TK</price>
+   <link>img5.jpg</link>
+   </book>
+<book>
+<name>Harry Potter and the Goblet of Fire</name>
+ <author>J.K.Rowling</author>
+ <year>2000</year>
+ <genre>Fiction</genre>
+   <price>250 TK</price>
+   <link>img6.jpg</link>
+   </book>
+<book>
+<name>Harry Potter and the Order of the Phoenix</name>
+  <author>J.K.Rowling</author> 
+  <year>2003</year> 
+  <genre>Fiction</genre>
+   <price>500 TK</price>
+   <link>img7.jpg</link>
+   </book>
+<book>
+<name>Harry Potter and the Half-Blood Prince</name>
+ <author>J.K.Rowling</author>
+ <year>2005</year>
+ <genre>Fantasy</genre>
+   <price>200 TK</price>
+   <link>img8.jpg</link>
+   </book>
+<book>
+<name>Harry Potter and the Deathly Hallows</name>
+ <author>J.K.Rowling</author> 
+ <year>2007</year>
+ <genre>Fantasy</genre>
+   <price>500 TK</price>
+   <link>img9.jpg</link>
+   </book>
+<book>
+<name>The Alchemist</name> 
+ <author>Paulo Coelho</author>
+ <year>1988</year> 
+ <genre>Novel</genre>
+   <price>150 TK</price>
+   <link>ta.jpg</link>
+   </book>
+<book>
+<name>The Catcher in the Rye</name> 
+<author>J. D. Salinger</author> 
+ <year>1951</year> 
+ <genre>Fiction</genre>
+   <price>250 TK</price>
+   <link>tcitr.jpg</link>
+   </book>
+<book>
+<name>Think and Grow Rich</name>
+<author>Napoleon Hill</author>
+<year>1937</year> 
+<genre>Novel</genre>
+   <price>200 TK</price>
+   <link>tagr.jpg</link>
+   </book>
+<book>
+<name>The Bridges of Madison County</name>
+ <author>Robert James Waller</author>
+ <year>1992</year>
+ <genre>Novel</genre>
+   <price>500 TK</price>
+   <link>tbomc.jpg</link>
+   </book>	
+<book>
+<name>The Adventures of Sherlock Holmes</name> 
+ <author>Arthur Conan Doyle</author> 
+ <year>1887</year> 
+ <genre>Mystery</genre>
+   <price>200 TK</price>
+   <link>img22.jpg</link>
+   </book>
+<book>
+<name>Twenty Thousand Leagues Under the Sea</name>
+ <author>Jules Verne</author>
+ <year>1870</year>
+ <genre>Adventure</genre>
+   <price>250 TK</price>
+   <link>img15.jpg</link>
+   </book>
+<book>
+<name>The Purpose Driven Life</name> 
+<author>Rick Warren</author>
+<year>2002</year>
+<genre>Novel</genre>
+   <price>250 TK</price>
+   <link>tpdl.jpg</link>
+   </book>
+<book>
+<name>You Can Heal Your Life</name>
+ <author>Louise Hay</author> 
+ <year>1984</year>
+ <genre>Novel</genre>
+   <price>150 TK</price>
+   <link>ychyl.jpg</link>
+   </book>
+
+<book>
+<name>One Hundred Years of Solitude</name> 
+<author>Gabriel García Márquez</author>
+<year>1967</year>
+<genre>Novel</genre>
+   <price>500 TK</price>
+   <link>ohyos.jpg</link>
+   </book>
+<book>
+<name>Lolita</name>
+<author>Vladimir Nabokov</author>
+ <year>1955</year>
+ <genre>Fiction</genre>
+   <price>200 TK</price>
+   <link>l.jpg</link>
+   </book>
+<book>
+<name>Heidi's Years of Learning and Travel</name>
+<author>Johanna Spyri</author>
+<year>1880</year>
+<genre>Novel</genre>
+   <price>500 TK</price>
+   <link>hyolat.jpg</link>
+   </book>
+<book>
+<name>The Common Sense Book of Baby and Child Care</name>
+<author>Dr. Benjamin Spock</author>
+<year>1946</year>
+<genre>Novel</genre>
+   <price>250 TK</price>
+   <link>tcsbobacc.jpg</link>
+   </book>
+<book>
+<name>Anne of Green Gables</name>
+ <author>Lucy Maud Montgomery</author>
+ <year>1908</year> 
+ <genre>Novel</genre>
+   <price>500 TK</price>
+   <link>aogg.jpg</link>
+   </book>
+<book>
+<name>Black Beauty</name>
+<author>Anna Sewell</author>
+ <year>1877</year> 
+ <genre>Fiction</genre>
+   <price>200 TK</price>
+   <link>bb.jpg</link>
+   </book>
+<book>
+<name>The Name of the Rose</name>
+<author>Umberto Eco</author> 
+<year>1980</year>
+ <genre>Mystery</genre>
+   <price>250 TK</price>
+   <link>tnotr.jpg</link>
+   </book>
+<book>
+<name>The Eagle Has Landed</name>
+<author>Jack Higgins</author>
+ <year>1975</year>
+ <genre>Thriller</genre>
+   <price>150 TK</price>
+   <link>tehl.jpg</link>
+   </book>
+<book>
+<name>Watership Down</name>
+<author>Richard Adams</author>
+<year>1972</year> 
+<genre>Fiction</genre>
+   <price>500 TK</price>
+   <link>wd.jpg</link>
+   </book>
+<book>
+<name>The Hite Report</name>
+<author>Shere Hite</author>
+ <year>1976</year>
+ <genre>Fiction</genre>
+   <price>250 TK </price>
+   <link>thr.jpg</link>
+   </book>
+<book>
+<name>Charlotte's Web</name>
+<author>E.B. White</author> 
+<year>1952</year>
+<genre>Fiction</genre>
+   <price>200 TK</price>
+   <link>cw.jpg</link>
+   </book>
+<book>
+<name>The Ginger Man</name>
+<author>J. P. Donleavy</author>
+<year>1955</year> 
+<genre>Fiction</genre>
+   <price>500 TK</price>
+   <link>tgm.jpg</link>
+   </book>	
+<book>
+<name>Ben-Hur: A Tale of the Christ</name>
+<author>Lew Wallace</author>
+<year>1880</year> 
+<genre>Fiction</genre>
+   <price>150 TK</price>
+   <link>bhatotc.jpg</link>
+   </book>
+<book>
+<name>The Mark of Zorro</name> 
+<author>Johnston McCulley</author>
+ <year>1919</year>
+ <genre>Novel</genre>
+   <price>150 TK</price>
+   <link>img23.jpg</link>
+   </book>
+<book>
+<name>The Tale of Peter Rabbit</name>
+<author>Beatrix Potter</author>
+<year>1902</year> 
+<genre>Fiction</genre>
+   <price>250 TK</price>
+   <link>img16.jpg</link>
+   </book>	
+<book>
+<name>Jonathan Livingston Seagull</name>
+<author>Richard Bach</author>
+<year>1970</year>
+<genre>Novel</genre>
+   <price>150 TK</price>
+   <link>jls.jpg</link>
+   </book>
+<book>
+<name>The Very Hungry Caterpillar</name>
+<author>Eric Carle</author>
+ <year>1969</year> 
+ <genre>Fiction</genre>
+   <price>200 TK</price>
+   <link>tvhc.jpg</link>
+   </book>
+<book>
+<name>A Message to Garcia</name>
+<author>Elbert Hubbard</author>
+<year>1899</year> 
+<genre>Thriller</genre>
+   <price>250 TK</price>
+   <link>amtg.jpg</link>
+   </book>
+<book>
+<name>Sophie's World</name> 
+<author>Jostein Gaarder</author>
+<year>1991</year> 
+<genre>Fiction</genre>
+   <price>250 TK</price>
+   <link>sw.jpg</link>
+   </book>	
+<book>
+<name>Flowers in the Attic</name>
+<author>V. C. Andrews</author>
+ <year>1979</year>
+ <genre>Novel</genre>
+   <price>500 TK</price>
+   <link>fita.jpg</link>
+   </book>	
+<book>
+<name>To Kill a Mockingbird</name>
+<author>Harper Lee</author>
+ <year>1960</year> 
+ <genre>Fiction</genre>
+   <price>200 TK</price>
+   <link>tkam.jpg</link>
+   </book>
+<book>
+<name>Angels and Demons</name> 
+<author>Dan Brown</author> 
+<year>2000</year> 
+<genre>Thriller</genre>
+   <price>150 TK</price>
+   <link>aad.jpg</link>
+   </book>
+<book>
+<name>Kane and Abel</name>
+<author>Jeffrey Archer</author> 
+ <year>1979</year> 
+ <genre>Fiction</genre>
+   <price>200 TK</price>
+   <link>kaa.jpg</link>
+   </book>		
+<book>
+<name>Your Erroneous Zones</name> 
+<author>Wayne Dyer</author>
+<year>1976</year>
+<genre>Fiction</genre>
+   <price>500 TK</price>
+   <link>yez.jpg</link>
+   </book>
+<book>
+<name>The Fault in Our Stars</name>
+ <author>John Green</author> 
+ <year>2012</year> 
+ <genre>Novel</genre>
+   <price>250 TK</price>
+   <link>img17.jpg</link>
+   </book>
+
+</books>
